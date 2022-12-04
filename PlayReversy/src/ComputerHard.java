@@ -99,6 +99,8 @@ public class ComputerHard extends Play {
         }
         changeColor(max_ij[0], max_ij[1], indexes, "b");
         field[max_ij[0]][max_ij[1]] = "b";
+        max_ij[0] += 1;
+        max_ij[1] += 1;
         out.println("Компьютер поставил фишку на ячейку: " + max_ij[0] + " " + max_ij[1]);
     }
 
