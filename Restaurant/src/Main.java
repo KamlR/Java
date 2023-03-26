@@ -12,7 +12,6 @@ public class Main {
     static ArrayList<Product> products;
     static ArrayList<VisitorOrder> visitorOrders;
     static ArrayList<Operation> operations;
-    static ArrayList<Equipment> equipments;
     static ArrayList<MenuDish> menuDishes;
 
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
