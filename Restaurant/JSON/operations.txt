@@ -1,0 +1,44 @@
+[
+	 
+		{
+        		"oper_type_id": 451,
+        		"oper_type_name": "frying",
+			"oper_type_time": 4.8
+                },
+                {
+                        "oper_type_id": 452,
+                        "oper_type_name": "boiling",
+			"oper_type_time": 6.5
+                },
+ 		{
+                        "oper_type_id": 453,
+                        "oper_type_name": "defrosting",
+			"oper_type_time": 60
+                },
+		{
+                        "oper_type_id": 454,
+                        "oper_type_name": "cutting",
+			"oper_type_time": 0.5
+                },
+		{
+                        "oper_type_id": 455,
+                        "oper_type_name": "dough waiting",
+			"oper_type_time": 60
+		},
+		{
+                        "oper_type_id": 456,
+                        "oper_type_name": "stir",
+			"oper_type_time": 2
+                },
+		{
+                        "oper_type_id": 457,
+                        "oper_type_name": "serving",
+			"oper_type_time": 3
+                },
+		{
+                        "oper_type_id": 458,
+                        "oper_type_name": "frosting",
+			"oper_type_time": 5
+                }
+       
+]

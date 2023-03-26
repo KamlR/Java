@@ -1,0 +1,24 @@
+[
+	
+		{
+        		"vis_name": "Ellen",
+               		"vis_ord_dishes": [28, 32]
+		},
+		{
+        		"vis_name": "Michael",
+                	"vis_ord_dishes": [33]
+		},
+		{
+        		"vis_name": "Francesco",
+                	"vis_ord_dishes": [34, 35]
+		},
+		{
+        		"vis_name": "Jennifer",
+                	"vis_ord_dishes": [30]
+		},
+		{
+        		"vis_name": "John",
+               		"vis_ord_dishes": [31, 32]
+		}
+	
+]

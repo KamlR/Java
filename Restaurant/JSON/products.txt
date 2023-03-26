@@ -1,0 +1,189 @@
+[
+	 
+		{
+			"prod_type_id": 1,
+			"prod_type_name": "Frozen beef",
+			"prod_is_food": true,
+                        "prod_item_company": "PrimeMeat",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 10
+		},
+		{
+			"prod_type_id": 2,
+			"prod_type_name": "Tomato",
+			"prod_is_food": true,
+			"prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 50
+		},
+		{
+			"prod_type_id": 3,
+			"prod_type_name": "Carrot",
+			"prod_is_food": true,
+			"prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 50
+                },
+                {
+                        "prod_type_id": 4,
+                        "prod_type_name": "Parmesan",
+                        "prod_is_food": true,
+			"prod_item_company": "GoldenCheese",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 3
+                },
+                {
+                        "prod_type_id": 5,
+                        "prod_type_name": "Olive oil",
+                        "prod_is_food": true,
+			"prod_item_company": "Altero",
+                        "prod_item_unit": "L",
+                        "prod_item_quantity": 5
+                },
+ 		{
+                        "prod_type_id": 6,
+                        "prod_type_name": "Salt",
+                        "prod_is_food": true,
+			"prod_item_company": "SaltCompany",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 10
+                },
+		{
+                        "prod_type_id": 7,
+                        "prod_type_name": "Sugar",
+                        "prod_is_food": true,
+			"prod_item_company": "SugarCompany",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 40
+                },
+		{
+                        "prod_type_id": 8,
+                        "prod_type_name": "Frozen Chicken",
+                        "prod_is_food": true,
+			"prod_item_company": "PrimeMeat",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 10
+                },
+		{
+                        "prod_type_id": 9,
+                        "prod_type_name": "Iceberg lettuce",
+                        "prod_is_food": true,
+			"prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 10
+                },
+		{
+                        "prod_type_id": 10,
+                        "prod_type_name": "Croutons",
+                        "prod_is_food": true,
+			"prod_item_company": "BreadHouse",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 100
+                },
+		{
+                        "prod_type_id": 11,
+                        "prod_type_name": "Fetaxa packaging",
+                        "prod_is_food": true,
+			"prod_item_company": "CheeseCompany",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 4
+                },
+		{
+                        "prod_type_id": 12,
+                        "prod_type_name": "Cucumbers",
+                        "prod_is_food": true,
+			"prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 10
+                },
+		{
+                        "prod_type_id": 13,
+                        "prod_type_name": "Olives",
+                        "prod_is_food": true,
+			"prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 2
+                },
+  		{
+                        "prod_type_id": 14,
+                        "prod_type_name": "Lambrusco",
+			"prod_is_food": true,
+			"prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 3
+                },
+		{
+                        "prod_type_id": 15,
+                        "prod_type_name": "Milk",
+			"prod_is_food": true,
+			"prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 6
+                },
+		{
+                        "prod_type_id": 16,
+                        "prod_type_name": "Coffee",
+			"prod_is_food": true,
+			"prod_item_company": "ForEvening",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 2
+                },
+		{
+                        "prod_type_id": 17,
+                        "prod_type_name": "Bakardi",
+			"prod_is_food": true,
+			"prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 2
+                },
+		{
+                        "prod_type_id": 18,
+                        "prod_type_name": "Coca-Cola",
+			"prod_is_food": true,
+			"prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 7
+                },
+		{
+                        "prod_type_id": 19,
+                        "prod_type_name": "Apple juice",
+			"prod_is_food": true,
+			"prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 5
+                },
+		{
+                        "prod_type_id": 20,
+                        "prod_type_name": "Flour",
+			"prod_is_food": true,
+			"prod_item_company": "BreadHouse",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 5
+                },
+		{
+                        "prod_type_id": 21,
+                        "prod_type_name": "Egg",
+			"prod_is_food": true,
+			"prod_item_company": "BreadHouse",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 20
+                },
+		{
+                        "prod_type_id": 22,
+                        "prod_type_name": "Potato",
+			"prod_is_food": true,
+			"prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 20
+                },
+		{
+                        "prod_type_id": 23,
+                        "prod_type_name": "Frozen berries",
+			"prod_is_food": true,
+			"prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 3
+                }
+
+	
+]

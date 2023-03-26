@@ -1,0 +1,257 @@
+{
+	"products": [
+		     {
+		             "prod_item_id": 191,
+			       "prod_item_type ": 1,
+                        "prod_item_name": "Frozen beef",
+                        "prod_item_company": "PrimeMeat",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 10,
+                        "prod_item_cost": 400,
+                        "prod_item_delivered": "2023-01-12T08:12:36",
+                        "prod_item_valid_until": "2023-12-31T23:59:59"
+                },
+                {
+                        "prod_item_id": 192,
+                        "prod_item_type ": 2,
+                        "prod_item_name": "Tomato",
+                        "prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 50,
+                        "prod_item_cost": 20,
+                        "prod_item_delivered": "2023-01-15T08:10:36",
+                        "prod_item_valid_until": "2024-12-31T23:59:59"
+                },
+                {
+                        "prod_item_id": 193,
+                        "prod_item_type ": 3,
+                        "prod_item_name": "Carrot",
+                        "prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 50,
+                        "prod_item_cost": 20,
+                        "prod_item_delivered": "2023-01-11T09:22:36",
+                        "prod_item_valid_until": "2025-12-31T23:59:59"
+                },
+                {
+                        "prod_item_id": 194,
+                        "prod_item_type ": 4,
+                        "prod_item_name": "Parmesan",
+                        "prod_item_company": "GoldenCheese",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 3,
+                        "prod_item_cost": 450,
+                        "prod_item_delivered": "2023-01-11T09:19:31",
+                        "prod_item_valid_until": "2025-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id": 195,
+                        "prod_item_type ": 5,
+                        "prod_item_name": "Olive oil",
+                        "prod_item_company": "Altero",
+                        "prod_item_unit": "L",
+                        "prod_item_quantity": 5,
+                        "prod_item_cost": 200,
+                        "prod_item_delivered": "2023-01-11T09:19:31",
+                        "prod_item_valid_until": "2025-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 196,
+                        "prod_item_type ": 6,
+                        "prod_item_name": "Salt",
+                        "prod_item_company": "SaltCompany",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 10,
+                        "prod_item_cost": 25,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item _id": 197,
+                        "prod_item_type ": 7,
+                        "prod_item_name": "Sugar",
+                        "prod_item_company": "SugarCompany",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 10,
+                        "prod_item_cost": 40,
+                        "prod_item_delivered": "2023-01-12T08:10:36",
+                        "prod_item_valid_until": "2026-12-31T23:59:59"
+                }
+                {
+                        "prod_item_id ": 198,
+                        "prod_item_type ": 8,
+                        "prod_item_name": "Frozen chicken",
+                        "prod_item_company": "PrimeMeat",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 10,
+                        "prod_item_cost": 350,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+		    {
+                        "prod_item_id ": 199,
+                        "prod_item_type ": 9,
+                        "prod_item_name": "Iceberg lettuce",
+                        "prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 10,
+                        "prod_item_cost": 100,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 200,
+                        "prod_item_type ": 10,
+                        "prod_item_name": "Croutons",
+                        "prod_item_company": "BreadHouse",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 2,
+                        "prod_item_cost": 100,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 201,
+                        "prod_item_type ": 11,
+                        "prod_item_name": "Fetaxa packaging",
+                        "prod_item_company": "CheeseCompany",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 4,
+                        "prod_item_cost": 300,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 202,
+                        "prod_item_type ": 12,
+                        "prod_item_name": "Сucumbers",
+                        "prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 10,
+                        "prod_item_cost": 30,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 203,
+                        "prod_item_type ": 13,
+                        "prod_item_name": "Olives",
+                        "prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 2,
+                        "prod_item_cost": 150,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 204,
+                        "prod_item_type ": 14,
+                        "prod_item_name": "Lambrusco",
+                        "prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 3,
+                        "prod_item_cost": 250,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 205,
+                        "prod_item_type ": 15,
+                        "prod_item_name": "Milk",
+                        "prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 6,
+                        "prod_item_cost": 100,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 206,
+                        "prod_item_type ": 16,
+                        "prod_item_name": "Coffee",
+                        "prod_item_company": "ForEvening",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 2,
+                        "prod_item_cost": 500,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 207,
+                        "prod_item_type ": 17,
+                        "prod_item_name": "Bacardi",
+                        "prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 2,
+                        "prod_item_cost": 600,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 208,
+                        "prod_item_type ": 18,
+                        "prod_item_name": "Coca-Cola",
+                        "prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 8,
+                        "prod_item_cost": 70,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 209,
+                        "prod_item_type ": 19,
+                        "prod_item_name": "Apple juice",
+                        "prod_item_company": "ForEvening",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 8,
+                        "prod_item_cost": 70,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 210,
+                        "prod_item_type ": 20,
+                        "prod_item_name": "Flour",
+                        "prod_item_company": "BreadHouse",
+                        "prod_item_unit": "kilo",
+                        "prod_item_quantity": 5,
+                        "prod_item_cost": 80,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 211,
+                        "prod_item_type ": 21,
+                        "prod_item_name": "Egg",
+                        "prod_item_company": "BreadHouse",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 20,
+                        "prod_item_cost": 10,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 212,
+                        "prod_item_type ": 22,
+                        "prod_item_name": "Potato",
+                        "prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 20,
+                        "prod_item_cost": 10,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+                 {
+                        "prod_item_id ": 213,
+                        "prod_item_type ": 23,
+                        "prod_item_name": "Frozen berries",
+                        "prod_item_company": "MySummer",
+                        "prod_item_unit": "pc.",
+                        "prod_item_quantity": 5,
+                        "prod_item_cost": 150,
+                        "cons_delivered": "2023-01-12T08:12:36",
+                        "cons_valid_until": "2026-12-31T23:59:59"
+                 },
+	]
+}
