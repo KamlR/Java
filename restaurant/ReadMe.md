@@ -10,7 +10,8 @@ create table users(
     id serial primary key,
     name varchar(20),
     email varchar(20),
-    password varchar(20)
+    password varchar(20),
+    role verchar(20)
 );
 ```
 
@@ -19,7 +20,8 @@ create table users(
 create table menu(
     id serial primary key,
     dish_name varchar(20),
-    price int
+    price int,
+    quantity int
 );
 ```
 ## Критерии:
