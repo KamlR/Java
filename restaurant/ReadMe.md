@@ -11,7 +11,7 @@ create table users(
     name varchar(20),
     email varchar(20),
     password varchar(20),
-    role verchar(20)
+    role varchar(20)
 );
 ```
 
