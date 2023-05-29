@@ -1,6 +1,27 @@
 # RestFul API Restaurant
 ## Мавлетова Карина Радиовна, БПИ216
+## Материалы, которые помогут разобраться в работе моих микросервисов (записала видео):
+- как устроено изнутри: https://disk.yandex.lv/i/-hsXWpToqt2_qw
+- демонстрация работы: https://disk.yandex.lv/i/rAyDPzaLp9sLOw
 
+Для создания базы данных users:
+```
+create table users(
+    id serial primary key,
+    name varchar(20),
+    email varchar(20),
+    password varchar(20)
+);
+```
+
+Для создания базы данных menu:
+```
+create table menu(
+    id serial primary key,
+    dish_name varchar(20),
+    price int
+);
+```
 ## Критерии:
 Сразу обращу внимание на то, что для каждого endpoint нужны параметры. Если их не передать, то будет выведено сообщение "Incorrect data".
 ### Микросервис авторизации:
